@@ -1,4 +1,4 @@
-Collect network traffic data for analyzing network performance, troubleshooting issues, and detecting potential security threats. Here are some two methods and tools you can use:
+Collect network traffic data for analyzing network performance, troubleshooting issues, and detecting potential security threats. Here are some methods and tools you can use:
 
 ### 1. **Packet Capture Tools**
 - **Wireshark**: A widely-used network protocol analyzer that captures and displays data packets in real-time. It allows you to filter and analyze traffic at a very detailed level.
